@@ -1,2 +1,2 @@
-Trevor Lamb
-emptyboat2020@gmail.com
+name: Trevor Lamb
+email: emptyboat2020@gmail.com
